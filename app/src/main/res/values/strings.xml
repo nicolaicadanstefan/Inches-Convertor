@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Inches Convertor</string>
+    <string name="hint_text_inches">inches</string>
+    <string name="button_text_calculate">calculate</string>
+</resources>
